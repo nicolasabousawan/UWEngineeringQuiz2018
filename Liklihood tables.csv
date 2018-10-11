@@ -1,0 +1,165 @@
+﻿1,53,56,49,39,32,20,8,99,82,151,59,133,45
+,54,57,50,40,33,21,9,100,83,152,60,134,46
+,,,,,,,,,,,,,
+field_interest,Biomedical Engineering,Chemical Engineering,Civil Engineering,Computer Engineering,Electrical Engineering,Environmental Engineering,Geological Engineering,Management Engineering,Mechanical Engineering,Mechatronics Engineering,Nanotechnology Engineering,Software Engineering,Systems Design Engineering 
+Construction,1,2,38,0,2,9,4,3,9,3,0,0,2
+Finance,0,1,3,0,6,0,2,24,1,3,1,0,3
+Manufacturing ,8,38,3,1,5,1,0,30,42,41,11,0,6
+Research ,35,15,3,5,8,10,2,7,25,34,45,4,4
+Software Development ,9,0,2,33,11,0,0,35,5,70,2,129,30
+,,,,,,,,,,,,,
+field_interest,Biomedical Engineering,Chemical Engineering,Civil Engineering,Computer Engineering,Electrical Engineering,Environmental Engineering,Geological Engineering,Management Engineering,Mechanical Engineering,Mechatronics Engineering,Nanotechnology Engineering,Software Engineering,Systems Design Engineering 
+Construction,2,3,39,1,3,10,5,4,10,4,1,1,3
+Finance,1,2,4,1,7,1,3,25,2,4,2,1,4
+Manufacturing ,9,39,4,2,6,2,1,31,43,42,12,1,7
+Research ,36,16,4,6,9,11,3,8,26,35,46,5,5
+Software Development ,10,1,3,34,12,1,1,36,6,71,3,130,31
+,58,61,54,44,37,25,13,104,87,156,64,138,50
+,,,,,,,,,,,,,
+field_interest,Biomedical Engineering,Chemical Engineering,Civil Engineering,Computer Engineering,Electrical Engineering,Environmental Engineering,Geological Engineering,Management Engineering,Mechanical Engineering,Mechatronics Engineering,Nanotechnology Engineering,Software Engineering,Systems Design Engineering 
+Construction,0.034482759,0.049180328,0.722222222,0.022727273,0.081081081,0.4,0.384615385,0.038461538,0.114942529,0.025641026,0.015625,0.007246377,0.06
+Finance,0.017241379,0.032786885,0.074074074,0.022727273,0.189189189,0.04,0.230769231,0.240384615,0.022988506,0.025641026,0.03125,0.007246377,0.08
+Manufacturing ,0.155172414,0.639344262,0.074074074,0.045454545,0.162162162,0.08,0.076923077,0.298076923,0.494252874,0.269230769,0.1875,0.007246377,0.14
+Research ,0.620689655,0.262295082,0.074074074,0.136363636,0.243243243,0.44,0.230769231,0.076923077,0.298850575,0.224358974,0.71875,0.036231884,0.1
+Software Development ,0.172413793,0.016393443,0.055555556,0.772727273,0.324324324,0.04,0.076923077,0.346153846,0.068965517,0.455128205,0.046875,0.942028986,0.62
+,,,,,,,,,,,,,
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+team_responsible,Biomedical Engineering,Chemical Engineering,Civil Engineering,Computer Engineering,Electrical Engineering,Environmental Engineering,Geological Engineering,Management Engineering,Mechanical Engineering,Mechatronics Engineering,Nanotechnology Engineering,Software Engineering,Systems Design Engineering 
+Penicillin,31,27,2,0,0,3,0,9,1,3,22,3,2
+Solar Panels,4,20,1,2,11,12,0,14,17,10,24,4,10
+The Automobile,3,4,2,3,2,0,1,19,41,24,2,4,1
+The CN Tower,0,2,41,0,1,3,7,6,5,2,1,0,5
+The Internet,3,3,2,26,10,2,0,48,6,16,6,100,19
+The Robot,12,0,1,8,8,0,0,3,12,96,4,22,8
+,,,,,,,,,,,,,
+team_responsible,Biomedical Engineering,Chemical Engineering,Civil Engineering,Computer Engineering,Electrical Engineering,Environmental Engineering,Geological Engineering,Management Engineering,Mechanical Engineering,Mechatronics Engineering,Nanotechnology Engineering,Software Engineering,Systems Design Engineering 
+Penicillin,32,28,3,1,1,4,1,10,2,4,23,4,3
+Solar Panels,5,21,2,3,12,13,1,15,18,11,25,5,11
+The Automobile,4,5,3,4,3,1,2,20,42,25,3,5,2
+The CN Tower,1,3,42,1,2,4,8,7,6,3,2,1,6
+The Internet,4,4,3,27,11,3,1,49,7,17,7,101,20
+The Robot,13,1,2,9,9,1,1,4,13,97,5,23,9
+,59,62,55,45,38,26,14,105,88,157,65,139,51
+,,,,,,,,,,,,,
+team_responsible,Biomedical Engineering,Chemical Engineering,Civil Engineering,Computer Engineering,Electrical Engineering,Environmental Engineering,Geological Engineering,Management Engineering,Mechanical Engineering,Mechatronics Engineering,Nanotechnology Engineering,Software Engineering,Systems Design Engineering 
+Penicillin,0.542372881,0.451612903,0.054545455,0.022222222,0.026315789,0.153846154,0.071428571,0.095238095,0.022727273,0.025477707,0.353846154,0.028776978,0.058823529
+Solar Panels,0.084745763,0.338709677,0.036363636,0.066666667,0.315789474,0.5,0.071428571,0.142857143,0.204545455,0.070063694,0.384615385,0.035971223,0.215686275
+The Automobile,0.06779661,0.080645161,0.054545455,0.088888889,0.078947368,0.038461538,0.142857143,0.19047619,0.477272727,0.159235669,0.046153846,0.035971223,0.039215686
+The CN Tower,0.016949153,0.048387097,0.763636364,0.022222222,0.052631579,0.153846154,0.571428571,0.066666667,0.068181818,0.01910828,0.030769231,0.007194245,0.117647059
+The Internet,0.06779661,0.064516129,0.054545455,0.6,0.289473684,0.115384615,0.071428571,0.466666667,0.079545455,0.108280255,0.107692308,0.726618705,0.392156863
+The Robot,0.220338983,0.016129032,0.036363636,0.2,0.236842105,0.038461538,0.071428571,0.038095238,0.147727273,0.617834395,0.076923077,0.165467626,0.176470588
+,,,,,,,,,,,,,
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+start_work,Biomedical Engineering,Chemical Engineering,Civil Engineering,Computer Engineering,Electrical Engineering,Environmental Engineering,Geological Engineering,Management Engineering,Mechanical Engineering,Mechatronics Engineering,Nanotechnology Engineering,Software Engineering,Systems Design Engineering 
+large corporation,14,31,16,16,10,3,4,49,35,47,21,54,9
+small company,26,19,29,10,19,16,4,33,36,59,23,49,23
+start up,13,6,4,13,3,1,0,17,11,45,15,30,13
+,,,,,,,,,,,,,
+start_work,Biomedical Engineering,Chemical Engineering,Civil Engineering,Computer Engineering,Electrical Engineering,Environmental Engineering,Geological Engineering,Management Engineering,Mechanical Engineering,Mechatronics Engineering,Nanotechnology Engineering,Software Engineering,Systems Design Engineering 
+large corporation,15,32,17,17,11,4,5,50,36,48,22,55,10
+small company,27,20,30,11,20,17,5,34,37,60,24,50,24
+start up,14,7,5,14,4,2,1,18,12,46,16,31,14
+,56,59,52,42,35,23,11,102,85,154,62,136,48
+,,,,,,,,,,,,,
+start_work,Biomedical Engineering,Chemical Engineering,Civil Engineering,Computer Engineering,Electrical Engineering,Environmental Engineering,Geological Engineering,Management Engineering,Mechanical Engineering,Mechatronics Engineering,Nanotechnology Engineering,Software Engineering,Systems Design Engineering 
+large corporation,0.267857143,0.542372881,0.326923077,0.404761905,0.314285714,0.173913043,0.454545455,0.490196078,0.423529412,0.311688312,0.35483871,0.404411765,0.208333333
+small company,0.482142857,0.338983051,0.576923077,0.261904762,0.571428571,0.739130435,0.454545455,0.333333333,0.435294118,0.38961039,0.387096774,0.367647059,0.5
+start up,0.25,0.118644068,0.096153846,0.333333333,0.114285714,0.086956522,0.090909091,0.176470588,0.141176471,0.298701299,0.258064516,0.227941176,0.291666667
+,,,,,,,,,,,,,
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+design_something ,Biomedical Engineering,Chemical Engineering,Civil Engineering,Computer Engineering,Electrical Engineering,Environmental Engineering,Geological Engineering,Management Engineering,Mechanical Engineering,Mechatronics Engineering,Nanotechnology Engineering,Software Engineering,Systems Design Engineering 
+tangibly,29,33,39,13,22,12,6,20,72,114,11,26,19
+no touch  ,24,23,10,26,10,8,2,79,10,37,48,107,26
+,53,56,49,39,32,20,8,99,82,151,59,133,45
+,,,,,,,,,,,,,
+design_something ,Biomedical Engineering,Chemical Engineering,Civil Engineering,Computer Engineering,Electrical Engineering,Environmental Engineering,Geological Engineering,Management Engineering,Mechanical Engineering,Mechatronics Engineering,Nanotechnology Engineering,Software Engineering,Systems Design Engineering 
+tangibly,0.547169811,0.589285714,0.795918367,0.333333333,0.6875,0.6,0.75,0.202020202,0.87804878,0.754966887,0.186440678,0.195488722,0.422222222
+no touch  ,0.452830189,0.410714286,0.204081633,0.666666667,0.3125,0.4,0.25,0.797979798,0.12195122,0.245033113,0.813559322,0.804511278,0.577777778
+,,,,,,,,,,,,,
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+work_partof,Biomedical Engineering,Chemical Engineering,Civil Engineering,Computer Engineering,Electrical Engineering,Environmental Engineering,Geological Engineering,Management Engineering,Mechanical Engineering,Mechatronics Engineering,Nanotechnology Engineering,Software Engineering,Systems Design Engineering 
+Focused ,18,11,13,16,15,5,3,19,24,45,15,70,2
+Multidisciplinary ,35,45,36,23,17,15,5,80,58,106,44,63,43
+,53,56,49,39,32,20,8,99,82,151,59,133,45
+,,,,,,,,,,,,,
+work_partof,Biomedical Engineering,Chemical Engineering,Civil Engineering,Computer Engineering,Electrical Engineering,Environmental Engineering,Geological Engineering,Management Engineering,Mechanical Engineering,Mechatronics Engineering,Nanotechnology Engineering,Software Engineering,Systems Design Engineering 
+Focused ,0.339622642,0.196428571,0.265306122,0.41025641,0.46875,0.25,0.375,0.191919192,0.292682927,0.298013245,0.254237288,0.526315789,0.044444444
+Multidisciplinary ,0.660377358,0.803571429,0.734693878,0.58974359,0.53125,0.75,0.625,0.808080808,0.707317073,0.701986755,0.745762712,0.473684211,0.955555556
+,,,,,,,,,,,,,
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+work_partof,Biomedical Engineering,Chemical Engineering,Civil Engineering,Computer Engineering,Electrical Engineering,Environmental Engineering,Geological Engineering,Management Engineering,Mechanical Engineering,Mechatronics Engineering,Nanotechnology Engineering,Software Engineering,Systems Design Engineering 
+Continuously change,25,14,9,17,10,8,1,51,29,54,24,63,26
+Know all,28,42,40,22,22,12,7,48,53,97,35,70,19
+,53,56,49,39,32,20,8,99,82,151,59,133,45
+,,,,,,,,,,,,,
+work_partof,Biomedical Engineering,Chemical Engineering,Civil Engineering,Computer Engineering,Electrical Engineering,Environmental Engineering,Geological Engineering,Management Engineering,Mechanical Engineering,Mechatronics Engineering,Nanotechnology Engineering,Software Engineering,Systems Design Engineering 
+Continuously change,0.471698113,0.25,0.183673469,0.435897436,0.3125,0.4,0.125,0.515151515,0.353658537,0.357615894,0.406779661,0.473684211,0.577777778
+Know all,0.528301887,0.75,0.816326531,0.564102564,0.6875,0.6,0.875,0.484848485,0.646341463,0.642384106,0.593220339,0.526315789,0.422222222
+,,,,,,,,,,,,,
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+care most,Biomedical Engineering,Chemical Engineering,Civil Engineering,Computer Engineering,Electrical Engineering,Environmental Engineering,Geological Engineering,Management Engineering,Mechanical Engineering,Mechatronics Engineering,Nanotechnology Engineering,Software Engineering,Systems Design Engineering 
+tech,1,4,5,21,9,1,0,26,15,54,9,53,9
+Env,0,26,19,6,10,16,6,14,36,44,18,21,12
+health ,49,23,16,5,7,1,1,28,21,41,28,37,14
+Human Rights,3,3,9,7,6,2,1,31,10,12,4,22,10
+,,,,,,,,,,,,,
+care most,Biomedical Engineering,Chemical Engineering,Civil Engineering,Computer Engineering,Electrical Engineering,Environmental Engineering,Geological Engineering,Management Engineering,Mechanical Engineering,Mechatronics Engineering,Nanotechnology Engineering,Software Engineering,Systems Design Engineering 
+tech,2,5,6,22,10,2,1,27,16,55,10,54,10
+Env,1,27,20,7,11,17,7,15,37,45,19,22,13
+health ,50,24,17,6,8,2,2,29,22,42,29,38,15
+Human Rights,4,4,10,8,7,3,2,32,11,13,5,23,11
+,57,60,53,43,36,24,12,103,86,155,63,137,49
+,,,,,,,,,,,,,
+care most,Biomedical Engineering,Chemical Engineering,Civil Engineering,Computer Engineering,Electrical Engineering,Environmental Engineering,Geological Engineering,Management Engineering,Mechanical Engineering,Mechatronics Engineering,Nanotechnology Engineering,Software Engineering,Systems Design Engineering 
+tech,0.035087719,0.083333333,0.113207547,0.511627907,0.277777778,0.083333333,0.083333333,0.262135922,0.186046512,0.35483871,0.158730159,0.394160584,0.204081633
+Env,0.01754386,0.45,0.377358491,0.162790698,0.305555556,0.708333333,0.583333333,0.145631068,0.430232558,0.290322581,0.301587302,0.160583942,0.265306122
+health ,0.877192982,0.4,0.320754717,0.139534884,0.222222222,0.083333333,0.166666667,0.281553398,0.255813953,0.270967742,0.46031746,0.277372263,0.306122449
+Human Rights,0.070175439,0.066666667,0.188679245,0.186046512,0.194444444,0.125,0.166666667,0.310679612,0.127906977,0.083870968,0.079365079,0.167883212,0.224489796
+,,,,,,,,,,,,,
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+eavesdrop,Biomedical Engineering,Chemical Engineering,Civil Engineering,Computer Engineering,Electrical Engineering,Environmental Engineering,Geological Engineering,Management Engineering,Mechanical Engineering,Mechatronics Engineering,Nanotechnology Engineering,Software Engineering,Systems Design Engineering 
+Lean ,11,14,4,12,11,0,0,39,17,78,6,55,15
+Metal,11,24,10,2,9,2,1,15,54,37,20,17,6
+microchip,21,6,4,20,10,3,0,22,4,33,27,52,10
+earthquake,10,12,31,5,2,15,7,23,7,3,6,9,14
+,,,,,,,,,,,,,
+eavesdrop,Biomedical Engineering,Chemical Engineering,Civil Engineering,Computer Engineering,Electrical Engineering,Environmental Engineering,Geological Engineering,Management Engineering,Mechanical Engineering,Mechatronics Engineering,Nanotechnology Engineering,Software Engineering,Systems Design Engineering 
+Lean ,12,15,5,13,12,1,1,40,18,79,7,56,16
+Metal,12,25,11,3,10,3,2,16,55,38,21,18,7
+microchip,22,7,5,21,11,4,1,23,5,34,28,53,11
+earthquake,11,13,32,6,3,16,8,24,8,4,7,10,15
+,57,60,53,43,36,24,12,103,86,155,63,137,49
+,,,,,,,,,,,,,
+eavesdrop,Biomedical Engineering,Chemical Engineering,Civil Engineering,Computer Engineering,Electrical Engineering,Environmental Engineering,Geological Engineering,Management Engineering,Mechanical Engineering,Mechatronics Engineering,Nanotechnology Engineering,Software Engineering,Systems Design Engineering 
+Lean ,0.210526316,0.25,0.094339623,0.302325581,0.333333333,0.041666667,0.083333333,0.388349515,0.209302326,0.509677419,0.111111111,0.408759124,0.326530612
+Metal,0.210526316,0.416666667,0.20754717,0.069767442,0.277777778,0.125,0.166666667,0.155339806,0.639534884,0.24516129,0.333333333,0.131386861,0.142857143
+microchip,0.385964912,0.116666667,0.094339623,0.488372093,0.305555556,0.166666667,0.083333333,0.223300971,0.058139535,0.219354839,0.444444444,0.386861314,0.224489796
+earthquake,0.192982456,0.216666667,0.603773585,0.139534884,0.083333333,0.666666667,0.666666667,0.233009709,0.093023256,0.025806452,0.111111111,0.072992701,0.306122449
+,,,,,,,,,,,,,
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+working_with,Biomedical Engineering,Chemical Engineering,Civil Engineering,Computer Engineering,Electrical Engineering,Environmental Engineering,Geological Engineering,Management Engineering,Mechanical Engineering,Mechatronics Engineering,Nanotechnology Engineering,Software Engineering,Systems Design Engineering 
+Process,2,3,0,0,1,0,1,30,1,1,2,0,3
+Comuter,10,3,6,29,12,3,1,10,12,72,12,103,7
+Machinery,4,11,3,1,3,2,0,1,34,36,9,0,0
+people,37,39,40,9,16,15,6,58,35,42,36,30,35
+,,,,,,,,,,,,,
+working_with,Biomedical Engineering,Chemical Engineering,Civil Engineering,Computer Engineering,Electrical Engineering,Environmental Engineering,Geological Engineering,Management Engineering,Mechanical Engineering,Mechatronics Engineering,Nanotechnology Engineering,Software Engineering,Systems Design Engineering 
+Process,3,4,1,1,2,1,2,31,2,2,3,1,4
+Comuter,11,4,7,30,13,4,2,11,13,73,13,104,8
+Machinery,5,12,4,2,4,3,1,2,35,37,10,1,1
+people,38,40,41,10,17,16,7,59,36,43,37,31,36
+,57,60,53,43,36,24,12,103,86,155,63,137,49
+,,,,,,,,,,,,,
+working_with,Biomedical Engineering,Chemical Engineering,Civil Engineering,Computer Engineering,Electrical Engineering,Environmental Engineering,Geological Engineering,Management Engineering,Mechanical Engineering,Mechatronics Engineering,Nanotechnology Engineering,Software Engineering,Systems Design Engineering 
+Process,0.052631579,0.066666667,0.018867925,0.023255814,0.055555556,0.041666667,0.166666667,0.300970874,0.023255814,0.012903226,0.047619048,0.00729927,0.081632653
+Comuter,0.192982456,0.066666667,0.132075472,0.697674419,0.361111111,0.166666667,0.166666667,0.106796117,0.151162791,0.470967742,0.206349206,0.759124088,0.163265306
+Machinery,0.087719298,0.2,0.075471698,0.046511628,0.111111111,0.125,0.083333333,0.019417476,0.406976744,0.238709677,0.158730159,0.00729927,0.020408163
+people,0.666666667,0.666666667,0.773584906,0.23255814,0.472222222,0.666666667,0.583333333,0.572815534,0.418604651,0.277419355,0.587301587,0.226277372,0.734693878
