@@ -110,7 +110,7 @@ def Outcomes(field_interest, team_responsible, start_work, design_something,
         if testPoint  < probabilities[values]:
             answer1 = values
             testPoint = probabilities[values]
-    print (programs[answer], programs[answer1])
+    return (programs[answer], programs[answer1])
 
 
 # In[5]:
